@@ -18,5 +18,5 @@ The project is built using the following technologies:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/Posipaka1337/RainbowSquareBoard.git
+   cd RainbowSquareBoard
