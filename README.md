@@ -2,10 +2,6 @@
 
 Welcome to the Colorful Squares Board project! This project showcases a dynamic board with squares that change color randomly when hovered. The squares light up for a few seconds before fading away.
 
-## Demo
-
-![Project Demo](link_to_image)
-
 ## Technologies Used
 
 The project is built using the following technologies:
